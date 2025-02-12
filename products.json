@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Lamborghini",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam eius repellendus, harum ex officiis nesciunt laborum quisquam modi natus eaque quo eveniet asperiores vero ducimus consectetur illum saepe obcaecati error tempore, id labore ratione maiores hic aspernatur? A, similique fugiat?",
+    "price": "R4,000,000",
+    "image": "img/lamborghini.jfif"
+  },
+  {
+    "id": 2,
+    "name": "Maserati",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam eius repellendus, harum ex officiis nesciunt laborum quisquam modi natus eaque quo eveniet asperiores vero ducimus consectetur illum saepe obcaecati error tempore, id labore ratione maiores hic aspernatur? A, similique fugiat?",
+    "price": "R1,700,000",
+    "image": "img/maserati.jfif"
+  },
+  {
+    "id": 3,
+    "name": "Mclaren",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam eius repellendus, harum ex officiis nesciunt laborum quisquam modi natus eaque quo eveniet asperiores vero ducimus consectetur illum saepe obcaecati error tempore, id labore ratione maiores hic aspernatur? A, similique fugiat?",
+    "price": "R6,500,000",
+    "image": "img/mclaren.jfif"
+  },
+  {
+    "id": 4,
+    "name": "Mercedes",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam eius repellendus, harum ex officiis nesciunt laborum quisquam modi natus eaque quo eveniet asperiores vero ducimus consectetur illum saepe obcaecati error tempore, id labore ratione maiores hic aspernatur? A, similique fugiat?",
+    "price": "R1,200,000",
+    "image": "img/mercedes.jfif"
+  },
+  {
+    "id": 5,
+    "name": "Mustang",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam eius repellendus, harum ex officiis nesciunt laborum quisquam modi natus eaque quo eveniet asperiores vero ducimus consectetur illum saepe obcaecati error tempore, id labore ratione maiores hic aspernatur? A, similique fugiat?",
+    "price": "R3,300,000",
+    "image": "img/mustang.jfif"
+  },
+  {
+    "id": 6,
+    "name": "Ferrari",
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam eius repellendus, harum ex officiis nesciunt laborum quisquam modi natus eaque quo eveniet asperiores vero ducimus consectetur illum saepe obcaecati error tempore, id labore ratione maiores hic aspernatur? A, similique fugiat?",
+    "price": "R5,800,000",
+    "image": "img/ferrari.jfif"
+  }
+]
